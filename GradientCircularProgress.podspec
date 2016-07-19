@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "GradientCircularProgress"
+  s.name         = "GCProgress"
   s.version      = "3.3.1"
   s.summary      = "Customizable progress indicator library in Swift"
   s.homepage     = "https://github.com/ivan-krapivcev/GradientCircularProgress"
